@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "llama.cpp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ggerganov/llama.cpp.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "d5c05821f3c3d6cabe8ac45776fe0ecb0da13eca"
+      }
+    },
+    {
+      "identity" : "swiftllama",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ShenghaiWang/SwiftLlama.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1c2245a904c2de9eb61dbb99f451738706097487"
+      }
+    }
+  ],
+  "version" : 2
+}
